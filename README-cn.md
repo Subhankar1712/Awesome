@@ -8,7 +8,7 @@
 
 > *标有 ![Open-Source Software][OSS Icon] 的项目是Open-Source Software。 标有![Freeware][Freeware Icon] 的项目是Freeware。*
 
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
+# <img src="https://raw.githubusercontent.com/Subhankar1712/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
 - [应用程序](#应用程序)
   - [音频](#音频)
