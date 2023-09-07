@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Set the deployment directory
+DEPLOY_DIR=" /path/to/depoloyment"
+
+#Git repository path
+GIT_REPO="/path/to/repo.git"
+
+# Update the deployment
+GIT_WORK_TREE="$DEPLOY_DIR" git checkout -f
+
+# Additional deployment steps (e.g., if it's a web server)
+systemct1 restart apache2 # Example: Restart Apache
+
+echo "Deployment complete."
