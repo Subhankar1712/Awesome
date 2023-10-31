@@ -18,10 +18,6 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      - name: Build
-        run: |
-          python build.py
          
       - name: Create Release
         run: |
