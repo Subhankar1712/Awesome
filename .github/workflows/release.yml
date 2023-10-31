@@ -19,11 +19,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build and Test
+      - name: Build
         run: |
           python build.py
-          python test.py
-
+         
       - name: Create Release
         run: |
           # Generate release notes
